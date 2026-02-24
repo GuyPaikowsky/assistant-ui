@@ -1,5 +1,26 @@
 # @assistant-ui/react-native
 
+## 0.1.1
+
+### Patch Changes
+
+- c31c0fa: Extract shared React code (model-context, client, types, providers, RuntimeAdapter) into `@assistant-ui/core/react` sub-path so both `@assistant-ui/react` and `@assistant-ui/react-native` re-export from one source.
+- 14769af: refactor: move RuntimeAdapter base logic to @assistant-ui/core; re-export missing core APIs from distribution packages
+- f8abe87: feat(react-native): add attachment primitives and useComposerAddAttachment hook
+- a638f05: refactor(react-native): import generic store utilities from @assistant-ui/store, remove deprecated hooks in favor of useAuiState
+- d74d309: feat(react-native): add tool system, model context hooks, and data renderers
+- Updated dependencies [a638f05]
+- Updated dependencies [28f39fe]
+- Updated dependencies [6692226]
+- Updated dependencies [c31c0fa]
+- Updated dependencies [fc98475]
+- Updated dependencies [374f83a]
+- Updated dependencies [fc98475]
+- Updated dependencies [14769af]
+- Updated dependencies [a638f05]
+  - @assistant-ui/core@0.1.1
+  - @assistant-ui/store@0.2.1
+
 ## 0.1.0
 
 ### Minor Changes

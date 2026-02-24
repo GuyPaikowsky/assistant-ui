@@ -1,5 +1,11 @@
 # @assistant-ui/cloud-ai-sdk
 
+## 0.1.2
+
+### Patch Changes
+
+- 3a39d33: feat(cloud-ai-sdk): add telemetry reporting for chat runs
+
 ## 0.1.1
 
 ### Patch Changes

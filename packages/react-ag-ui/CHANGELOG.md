@@ -1,5 +1,18 @@
 # @assistant-ui/react-ag-ui
 
+## 0.0.18
+
+### Patch Changes
+
+- 8c29377: fix(react-ag-ui): route tool results to the latest pending tool call and avoid false auto-resume triggers
+- Updated dependencies [6692226]
+- Updated dependencies [c31c0fa]
+- Updated dependencies [28f39fe]
+- Updated dependencies [14769af]
+- Updated dependencies [7c360ce]
+- Updated dependencies [a638f05]
+  - @assistant-ui/react@0.12.12
+
 ## 0.0.17
 
 ### Patch Changes

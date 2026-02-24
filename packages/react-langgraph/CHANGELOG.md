@@ -1,5 +1,18 @@
 # @assistant-ui/react-langgraph
 
+## 0.13.1
+
+### Patch Changes
+
+- e1d839e: feat(react-langgraph): support `additional_kwargs.metadata` in LangGraph message converter, mapping it to `ThreadMessage.metadata.custom`
+- Updated dependencies [6692226]
+- Updated dependencies [c31c0fa]
+- Updated dependencies [28f39fe]
+- Updated dependencies [14769af]
+- Updated dependencies [7c360ce]
+- Updated dependencies [a638f05]
+  - @assistant-ui/react@0.12.12
+
 ## 0.13.0
 
 ### Minor Changes
